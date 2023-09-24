@@ -30,7 +30,7 @@ The dataset has 11 columns including:
 
  - Created a Spark Session and read in the home_sales_revised.csv file into a dataframe.
  - Previewed the first 20 rows of the dataframe.
- - Createed temporary views of the data.
+ - Created temporary views of the data.
  - Ran queries on cached and uncached data, and compared the run times.
  - Partitioned the data and leveraged parquet formatted data.
  - Ran queries in Spark to answer the following questions:
